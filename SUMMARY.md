@@ -5,5 +5,6 @@
 * [blockchain-network-on-kubernetes-kor](blockchain-network-on-kubernetes-kor.md)
 * [chainpoint-node-kor](chainpoint-node-kor.md)
 * [go-ethereum-kor](go-ethereum-kor.md)
-* [blockchain\_go-kor](blockchain_go-kor.md)
+* [blockchain\_go-kor](blockchain_go-kor/README.md)
+  * [Basic Prototype](blockchain_go-kor/basic-prototype.md)
 

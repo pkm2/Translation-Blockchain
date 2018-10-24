@@ -1,6 +1,6 @@
 # Translation-Blockchain
 
-## Introduction
+## 소개
 
 Block Chain과 관련된 다양한 오픈소스 프로젝트를 한국어로 번역하는 작업을 하는 공간입니다.
 

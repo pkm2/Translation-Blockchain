@@ -1,2 +1,0 @@
-# blockchain\_go-kor
-
