@@ -2,9 +2,9 @@
 
 ## 소개
 
-![image](https://user-images.githubusercontent.com/36066656/47407017-19a25200-d794-11e8-9b9f-11d44269bb23.png)
+[![image](https://user-images.githubusercontent.com/36066656/47407017-19a25200-d794-11e8-9b9f-11d44269bb23.png)](https://github.com/Jeiwan/blockchain\_go)
 
-https://github.com/Jeiwan/blockchain\_go
+
 
 해당 블록체인 프로젝트의 문서를 한국어로 번역한 공간입니다.
 
