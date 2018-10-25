@@ -1,4 +1,4 @@
-# Basic Prototype
+# 기본 프로토타입
 
 [![](../.gitbook/assets/image.png)](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 

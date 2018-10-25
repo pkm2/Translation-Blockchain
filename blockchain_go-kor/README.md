@@ -10,11 +10,11 @@
 
 다음 기사를 토대로, Go언어를 이용한 블록체인 구현:
 
-1. [Basic Prototype](https://know-blockchain-from-opensource.gitbook.io/know-blockchain/blockchain_go-kor/basic-prototype)
-2. Proof-of-Work
-3. Persistence and CLI
-4. Transactions 1
-5. Addresses
-6. Transactions 2
-7. Network
+1. [기본 프로토타입](https://know-blockchain-from-opensource.gitbook.io/know-blockchain/blockchain_go-kor/basic-prototype)
+2. 작업 증명
+3. 영속성 및 CLI
+4. 트랜잭션 1
+5. 주소
+6. 트랜잭션 2
+7. 네트워
 
