@@ -1,4 +1,0 @@
-# awesome-blockchain-kor
-
-
-
